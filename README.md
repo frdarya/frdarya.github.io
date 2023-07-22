@@ -1,6 +1,6 @@
 
 # About me
-I'm a cognitive neuroscientist currently based at the [Laboratory for Clinical Neuroscience, Universidad Politecnica de Madrid](https://www.thestrangelab.org/), where I'm funded by a Marie Skłodowska-Curie fellowship through the Spanish State Research Agency, Ministry of Science and Innovation, and #NextGenerationEU.
+I'm a cognitive neuroscientist currently based at the [Clinical Neuropyhsiology & Memory, UCL] (https://www.ucl.ac.uk/icn/research/research-groups/clinical-neurophysiology-memory) and the [Laboratory for Clinical Neuroscience, Universidad Politecnica de Madrid](https://www.thestrangelab.org/), where I'm funded by a Marie Skłodowska-Curie fellowship through the Spanish State Research Agency, Ministry of Science and Innovation, and #NextGenerationEU.
 
 
 I previously completed my PhD at the [Division of Neuroscience and Experimental Psychology, University of Manchester](https://www.research.manchester.ac.uk/portal/en/facultiesandschools/division-of-neuroscience--experimental-psychology(56df8793-4074-4d32-b197-a40989cfefc7).html) and MSc at the [Institute of Cognitive Neuroscience, UCL](https://www.ucl.ac.uk/icn/). You can see my full CV [here](/CV)
