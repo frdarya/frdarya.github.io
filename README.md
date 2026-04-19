@@ -1,3 +1,3 @@
 
-Hello! This site is no longer updates, please see https://frankmemorylab.github.io/ instead
+Hello! please see my new lab's website here: Frank Memory Lab[https://frankmemorylab.github.io/]
 
